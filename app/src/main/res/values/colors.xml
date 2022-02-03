@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#424242</color>
+    <color name="colorPrimaryDark">#1B1B1B</color>
+    <color name="colorPrimaryLight">#6d6d6d</color>
+    <color name="colorAccent">#ced7db</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_grey">#ffDDDDDD</color>
+    <color name="text_light">#ff666666</color>
+    <color name="text_black">#ff222222</color>
+    <color name="colorTextPrimary">#ffffff</color>
+    <color name="colorTextSecondary">#000000</color>
+    <color name="cardBackground">#ddd</color>
+    <color name="recyclerViewDivider">#61ced7db</color>
+    <color name="gradient_start">#7f000000</color>
+    <color name="gradient_end">#00000000</color>
+    <color name="option_item_tint_color">#ad000000</color>
+</resources>

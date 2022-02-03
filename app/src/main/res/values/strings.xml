@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Dove News</string>
+    <string name="sample_source">BBC News • 1h</string>
+    <string name="sample_title" >Freedom from fear!</string>
+    <string name="sample_title_long" >PM Narendra Modi\'s frivolous statements won\'t help create wedge between me and Congress: Amarinder Singh</string>
+    <string name="sample_description" >The Sunshine State is home to Mr Trump\'s golf resort, but bigger targets lie elsewhere in the US.</string>
+    <string name="image_desc" >Image for the News Post</string>
+
+    <string name="title_headlines" >Headlines</string>
+    <string name="title_saved" >Saved</string>
+    <string name="title_sources" >Sources</string>
+
+    <string name="image_desc_share_button" >share button</string>
+    <string name="image_desc_save_button" >save button</string>
+    <string name="image_desc_open_in_browser_button" >open in browser button</string>
+    <string name="image_btn_desc_next" >Next Button</string>
+    <string name="image_btn_desc_prev" >Previous Button</string>
+    <string name="bottom_sheet_option_delete">Remove</string>
+    <string name="bottom_sheet_option_save">Save for later</string>
+    <string name="bottom_sheet_option_share">Share</string>
+    <string name="bottom_sheet_option_open_in_browser">Open in browser</string>
+    <string name="button_read_full_story">read full story</string>
+
+    <string name="image_desc_source_image" >Source Image</string>
+    <string name="sample_category" >General</string>
+
+    <string name="message_item_saved" >Article added to Saved</string>
+    <string name="message_item_removed" >Article removed from Saved</string>
+    <string name="info_no_saved_articles" >No Saved Articles</string>
+
+    <string name="sample_page" translatable="false">1/5</string>
+    <string name="search" translatable="false">Search</string>
+    <string name="search_hint">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="language">Language</string>
+    <string name="about_us">About</string>
+    <string name="feedback">Feedback</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="about_message" >Created by Ko Hein </string>
+    <string name="yoursubject" >Thank you for your feedback</string>
+    <string name="contact_us" >dovenews@gmail.com</string>
+    <string name="about_title" >Dove News %1$s</string>
+    <string name="welcome_from_dove_news">Welcome from Dove News</string>
+    <string name="settings">Setting</string>
+    <string name="splashimage">SplashImage</string>
+</resources>
